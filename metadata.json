@@ -1,0 +1,6 @@
+{
+  "name": "MyContacts",
+  "description": "Clean, modern contact manager and address book with search, alphabetical index, favorites, categories, and CSV import/export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
